@@ -162,6 +162,11 @@ h4 {
   width: 450px;
 }
 
+.tblcompra{
+  font-size: 16px;
+}
+
+
 #dropdown01 {
   width: 80px;
 }
@@ -344,6 +349,10 @@ h4 {
                   /*   ini - redes sociales    */
                   /* ------------------------- */
 
+                   .tblcompra{
+                    font-size: 14px;
+                  } 
+  
 }
 /* --------------------------------------
       fin - para escalas pequeñas
